@@ -6,7 +6,7 @@ namespace csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World. This is Druhin here!???");
+            Console.WriteLine("Hello World. This is Druhin here!");
         }
     }
 }
